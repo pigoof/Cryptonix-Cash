@@ -1,13 +1,12 @@
-# Monero
+# Cryptonix Cash
 
-Copyright (c) 2014-2018 The Monero Project.   
+Copyright (c) 2018 The Cryptonix Cash Project.   
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
 
 ## Development resources
 
-- Web: [getmonero.org](https://getmonero.org)
-- Forum: [forum.getmonero.org](https://forum.getmonero.org)
-- Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
+- Web: [cryptonix.weebly.com ](https://www.cryptonix.weebly.com)
+- Mail: [mytonicstore@hotmail.com](mytonicstore@hotmail.com)
 - GitHub: [https://github.com/monero-project/monero](https://github.com/monero-project/monero)
 - IRC: [#monero-dev on Freenode](http://webchat.freenode.net/?randomnick=1&channels=%23monero-dev&prompt=1&uio=d4)
 
